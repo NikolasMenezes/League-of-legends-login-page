@@ -159,7 +159,7 @@ main{
 }
 
 #wallpaper-container{
-    background-image: url(/img/wallpaper.jpg);
+    background-image: url(../img/wallpaper.jpg);
     width: 100%;
     flex: 1;
     background-position: center;
